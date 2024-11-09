@@ -8,6 +8,8 @@ In today’s rapidly evolving technological landscape, artificial intelligence (
 - [Project Overview](#project-overview)
 - [Key Findings](#key-findings)
 - [Tools and Methodology](#tools-and-methodology)
+- [Overview of the Data](#overview-of-the-data)
+- [Dataset](#dataset)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -36,5 +38,28 @@ This project leverages:
 - **Excel**: For organizing data, performing calculations, and building initial analyses.
 - **Tableau**: For creating interactive dashboards to visualize the impact of AI on different job roles and industries.
 
+## Overview of the Data
+
+This project uses the **"From Data Entry to CEO: The AI Job Threat Index"** dataset, originally uploaded by TENSOR BOY on Kaggle under the CC0 Public Domain license. This dataset aggregates insights from various AI and job analytics platforms, offering a broad view of AI’s influence on different job roles.
+
+### Key Features
+
+- **Job Titles**: Lists job roles across industries.
+- **AI Impact**: Percentage that indicates AI's influence on each role.
+- **Tasks**: Number of tasks done by humans for each job title.
+- **AI Models**: Count of AI models integrated into each job’s workflow.
+- **AI Workload Ratio**: Represents the balance of work done by AI vs. humans.
+- **Domain**: The industry or field each job belongs to.
+
+This data provides a comprehensive analysis of how AI reshapes the job landscape, focusing on automation trends, skill demands, and industry-specific insights.
+
+## Dataset
+
+You can access the dataset [here on Kaggle](https://www.kaggle.com/path-to-dataset) or in the `data/` folder of this repository.
+
 ## Contributing
+
 Feel free to contribute! Fork this repo, create a branch, and make a pull request.
+
+We appreciate any feedback or suggestions to make this project more impactful!
+
