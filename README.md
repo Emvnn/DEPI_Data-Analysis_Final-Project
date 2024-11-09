@@ -37,3 +37,18 @@ This project leverages:
 - **Excel**: For organizing data, performing calculations, and building initial analyses.
 - **Tableau**: For creating interactive dashboards to visualize the impact of AI on different job roles and industries.
 
+## Project Structure
+
+```plaintext
+.
+├── Python/
+│   ├── data_preprocessing.ipynb    # Data cleaning and analysis
+│   └── visualizations.py           # Python script for data visualization
+├── SQL/
+│   └── ai_job_analysis.sql         # SQL queries for data extraction and analysis
+├── Excel/
+│   └── job_market_analysis.xlsx    # Excel workbook with initial analysis and dashboards
+└── Tableau/
+    ├── ai_impact_dashboard.twbx    # Tableau dashboard file
+    └── screenshots/
+        └── dashboard_overview.png  # Screenshot of Tableau dashboard
