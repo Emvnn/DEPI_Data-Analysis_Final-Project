@@ -1,4 +1,4 @@
-# ![The Impact of AI on Jobs](./Logo.png)
+# ![The Impact of AI on Jobs](![Logo](https://github.com/user-attachments/assets/854ae42f-260e-4bfe-82b9-ca08df68e54e)
 
 # The Impact of AI on Jobs
 
