@@ -41,6 +41,3 @@ This project leverages:
 
 ## Contributing
 Feel free to contribute! Fork this repo, create a branch, and make a pull request.
-
-## License
-[MIT License](LICENSE)
