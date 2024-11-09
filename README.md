@@ -1,3 +1,5 @@
+# ![The Impact of AI on Jobs](./Logo.png)
+
 # The Impact of AI on Jobs
 
 In today’s rapidly evolving technological landscape, artificial intelligence (AI) is reshaping industries and the workforce at an unprecedented pace. This project, **"The Impact of AI on Jobs,"** provides an in-depth analysis of how AI is affecting job structures, skill requirements, and employment trends across various sectors.
