@@ -8,10 +8,7 @@ In today’s rapidly evolving technological landscape, artificial intelligence (
 - [Project Overview](#project-overview)
 - [Key Findings](#key-findings)
 - [Tools and Methodology](#tools-and-methodology)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
