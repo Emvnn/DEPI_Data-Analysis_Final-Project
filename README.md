@@ -55,7 +55,7 @@ This data provides a comprehensive analysis of how AI reshapes the job landscape
 
 ## Dataset
 
-You can access the dataset [here on Kaggle](https://www.kaggle.com/path-to-dataset) or in the `data/` folder of this repository.
+You can access the dataset [here on Kaggle]([https://www.kaggle.com/path-to-dataset](https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index?resource=download)) or in the `Data/` folder of this repository.
 
 ## Contributing
 
